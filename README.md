@@ -31,6 +31,6 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vqtung2k4&theme=dracula" height="150" alt="GitHub Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vqtung2k4&theme=dracula" height="150" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tunkyothedev&theme=dracula" height="150" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tunkyothedev&theme=dracula" height="150" alt="Top Languages" />
 </div>
