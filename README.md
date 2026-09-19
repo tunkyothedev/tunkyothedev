@@ -15,7 +15,7 @@
 
 - 🌱 Currently diving deep into **Advanced JavaScript & Modern Web Ecosystems**
 - 👨‍💻 Exploring frontend frameworks and building interactive web apps
-- 📝 Sharing my developer journey on my [Tech Blog](https://j2c.cc/tungandhisblog)
+- 📝 Sharing my developer journey on my [Tech Blog](https://confusion-peach-4ab.notion.site/Welcome-to-Vu-Quang-Tung-s-Blog-670465ddef524dcfbfe20804866f3c26?pvs=74)
 - 📫 Reach me directly at **[vuquangtung2004@gmail.com](mailto:vuquangtung2004@gmail.com)**
 
 ---
