@@ -5,7 +5,7 @@
   <p>
     <a href="https://linkedin.com/in/vqtung2k4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:vuquangtung2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-    <a href="https://j2c.cc/tungandhisblog"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" /></a>
+    <a href="https://confusion-peach-4ab.notion.site/Welcome-to-Vu-Quang-Tung-s-Blog-670465ddef524dcfbfe20804866f3c26?pvs=74"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" /></a>
   </p>
 </div>
 
